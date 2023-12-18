@@ -10,5 +10,5 @@ Ebook gerado atraves do chatGPT
 Utilizei o chatGPT para elaboração do texto
 
 ## 🚀 Resultados
-[Ebook](https://github.com/KraXatu/dio-IA/edit/main/exemplos/E-BOOK.md)
+[Ebook](https://github.com/KraXatu/dio-IA/blob/main/exemplos/IAs.odt)
 
